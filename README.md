@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web applications, including a MERN-based game marketplace and a Spring Boot + React CPQ system<br>🌱 I’m currently learning advanced backend development, cloud deployment, Big Data tools, and system design<br>👯 I’m looking to collaborate on full-stack projects, SaaS ideas, and open-source JavaScript/Java applications<br>🤔 I’m looking for help with scaling applications, system architecture, and industry best practices<br>💬 Ask me about MERN stack, Spring Boot, REST APIs, MongoDB, Oracle DB, or academic projects<br>📫 How to reach me: LinkedIn or GitHub (via my profile)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I balance software engineering studies with a part-time job while building real-world products
+🔭 I’m currently building Sutra, a full-stack SaaS field-service platform for managing work orders, inspections, quotes, invoices, technicians, and day-to-day operations
+🌱 I’m currently focused on Java, Spring Boot, DSA, REST APIs, backend development, AWS, and system design
+💻 I recently completed a CPQ platform using Java, Spring Boot, React, and Oracle, with features including product configuration, formula building, authentication, and PDF generation
+👯 I’m looking to collaborate on SaaS products, backend systems, full-stack applications, and open-source Java/JavaScript projects
+🤔 I’m currently improving my DSA, scalable backend architecture, cloud deployment, and production engineering practices
+💬 Ask me about Java, Spring Boot, React, Next.js, REST APIs, MongoDB, Oracle, or building full-stack products with AI-assisted development
+🎯 I’m currently pursuing Software Developer / Backend Java / API Developer opportunities
+📫 How to reach me: LinkedIn or GitHub via my profile
+😄 Pronouns: He/Him
+⚡ Fun fact: I work in the fire-protection industry while building software inspired by real operational problems I encounter in the field.
 
 
 ## 🌐 Socials:
