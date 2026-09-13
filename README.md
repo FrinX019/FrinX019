@@ -1,14 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently building Sutra, a full-stack SaaS field-service platform for managing work orders, inspections, quotes, invoices, technicians, and day-to-day operations
-🌱 I’m currently focused on Java, Spring Boot, DSA, REST APIs, backend development, AWS, and system design
-💻 I recently completed a CPQ platform using Java, Spring Boot, React, and Oracle, with features including product configuration, formula building, authentication, and PDF generation
-👯 I’m looking to collaborate on SaaS products, backend systems, full-stack applications, and open-source Java/JavaScript projects
-🤔 I’m currently improving my DSA, scalable backend architecture, cloud deployment, and production engineering practices
-💬 Ask me about Java, Spring Boot, React, Next.js, REST APIs, MongoDB, Oracle, or building full-stack products with AI-assisted development
-🎯 I’m currently pursuing Software Developer / Backend Java / API Developer opportunities
-📫 How to reach me: LinkedIn or GitHub via my profile
-😄 Pronouns: He/Him
-⚡ Fun fact: I work in the fire-protection industry while building software inspired by real operational problems I encounter in the field.
+🔭 I’m currently building **Sutra**, a full-stack SaaS field-service platform for managing work orders, inspections, quotes, invoices, technicians, and day-to-day operations<br>
+🌱 I’m currently focused on **Java, Spring Boot, DSA, REST APIs, backend development, AWS, and system design**<br>
+💻 I recently completed a **CPQ platform** using Java, Spring Boot, React, and Oracle, featuring product configuration, formula building, authentication, and PDF generation<br>
+👯 I’m looking to collaborate on **SaaS products, backend systems, full-stack applications, and open-source Java/JavaScript projects**<br>
+🤔 I’m looking for help with **scalable backend architecture, cloud deployment, system design, and industry best practices**<br>
+💬 Ask me about **Java, Spring Boot, React, Next.js, REST APIs, MongoDB, Oracle, and full-stack development**<br>
+🎯 I’m currently pursuing **Software Developer, Backend Java, and API Developer opportunities**<br>
+📫 How to reach me: **LinkedIn or GitHub** via my profile<br>
+😄 Pronouns: **He/Him**<br>
+⚡ Fun fact: I work in the **fire-protection industry** while building software inspired by real operational problems I encounter in the field.<br>
 
 
 ## 🌐 Socials:
